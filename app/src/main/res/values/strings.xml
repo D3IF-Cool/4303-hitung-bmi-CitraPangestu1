@@ -38,5 +38,9 @@
         © 2021 Indra Azimi.\nAll rights reserved.</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <string name="hitung_bmi">Hitung BMI</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Berat badan: %1$s kg\nTinggi badan: %2$s
+    cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string>
+
 
 </resources>
