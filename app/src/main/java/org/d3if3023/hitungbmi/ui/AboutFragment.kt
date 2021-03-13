@@ -1,0 +1,8 @@
+package org.d3if3023.hitungbmi.ui
+
+import androidx.fragment.app.Fragment
+import org.d3if3023.hitungbmi.R
+
+class AboutFragment: Fragment(R.layout.fragment_about) {
+
+}

@@ -31,4 +31,12 @@
     asal tidak lari dari kehidupan.</string>
     <string name="lihat_saran">Lihat Saran</string>
 
+    <string name="copyright">Hitung BMI merupakan sebuah aplikasi Android untuk
+    menghitung body mass index (BMI) sehingga seseorang dapat mengetahui apakah
+    berat badannya ideal, gemuk atau kurus.\n\nAplikasi ini dibuat untuk kelas
+    Mobpro 1. Temukan kodenya di https://github.com/indraazimi/hitung-bmi\n\nCopyright
+        © 2021 Indra Azimi.\nAll rights reserved.</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="hitung_bmi">Hitung BMI</string>
+
 </resources>
