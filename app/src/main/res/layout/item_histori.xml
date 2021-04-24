@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
     <TextView
         android:id="@+id/tanggalTextView"
         android:layout_width="wrap_content"
@@ -34,7 +34,6 @@
         app:layout_constraintStart_toEndOf="@+id/kategoriTextView"
         app:layout_constraintTop_toTopOf="@+id/kategoriTextView"
         tools:text="BMI: 24,09" />
-
     <TextView
         android:id="@+id/beratTextView"
         android:layout_width="0dp"
@@ -48,9 +47,7 @@
         app:layout_constraintHorizontal_chainStyle="spread"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/kategoriTextView"
-        app:layout_constraintVertical_bias="0.008"
         tools:text="BB: 68,0" />
-
     <TextView
         android:id="@+id/tinggiTextView"
         android:layout_width="0dp"
@@ -70,6 +67,5 @@
         app:layout_constraintStart_toEndOf="@+id/tinggiTextView"
         app:layout_constraintTop_toTopOf="@+id/beratTextView"
         tools:text="Pria" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
